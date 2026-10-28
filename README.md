@@ -1,11 +1,11 @@
+
+
+
 <div align="center">
   <img src="./assets/civicconnect-banner.png"
-       alt="CivicConnect Banner"
-       width="100%" />
+       alt="CivicConnect - Your Voice, Our City"
+       width="100%">
 </div>
-<div align="center">
-
-  <img src="./assets/civicconnect-banner.png" alt="CivicConnect — Your Voice, Our City, A Better Tomorrow" width="100%" />
 
   <h1>🏙️ CivicConnect</h1>
 
