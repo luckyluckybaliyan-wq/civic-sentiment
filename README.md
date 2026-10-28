@@ -1,10 +1,6 @@
 
+![CivicConnect Banner](./assets/civicconnect-banner.png)
 
-
-<div align="center">
-  <img src="./assets/civicconnect-banner.png"
-       alt="CivicConnect - Your Voice, Our City"
-       width="100%">
 </div>
 
   <h1>🏙️ CivicConnect</h1>
